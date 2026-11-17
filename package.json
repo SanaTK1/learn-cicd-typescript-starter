@@ -34,5 +34,17 @@
     "tabWidth": 2,
     "semi": true,
     "singleQuote": false
-  }
+  },
+  "description": "This repo contains the typescript starter code for the \"Notely\" application for the \"Learn CICD\" course on [Boot.dev](https://boot.dev).",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SanaTK1/learn-cicd-typescript-starter.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SanaTK1/learn-cicd-typescript-starter/issues"
+  },
+  "homepage": "https://github.com/SanaTK1/learn-cicd-typescript-starter#readme"
 }
